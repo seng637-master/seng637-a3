@@ -20,11 +20,7 @@ This assignment has a similar focus to the previous assignment, as it is once ag
 
 ## 1.1 OBJECTIVES
 
-The objectives of this assignment are to introduce students to the concepts of determining the adequacy of a
-white-box test suite based on its coverage of the code. In white-box testing, it is important to measure the
-adequacy of a test suite based on completeness defined by the portion of the code which is exercised. This
-definition can take several forms, including control-flow coverage criteria: e.g., statement (or node)
-coverage, decision (or edge) coverage, condition coverage, path coverage or data-flow coverage criteria: e.g., DU pairs coverage.
+The objectives of this assignment are to introduce students to the concepts of determining the adequacy of a white-box test suite based on its coverage of the code. In white-box testing, it is important to measure the adequacy of a test suite based on completeness defined by the portion of the code which is exercised. This definition can take several forms, including control-flow coverage criteria: e.g., statement (or node) coverage, decision (or edge) coverage, condition coverage, path coverage or data-flow coverage criteria: e.g., DU pairs coverage.
 
 After completing the assignment, students will be able:
 
@@ -199,7 +195,7 @@ It is mandatory for all team members to attend the demo session and explain the 
 
 ## 5.2 JUNIT TEST SUITE (40%)
 
-The test suite will be required to be submitted as a ZIP file along with the lab report. Students will be graded on their unit tests. The grading criteria are as follows.
+The test suite will be required to be submitted along with the lab report. Students will be graded on their unit tests. The grading criteria are as follows.
 
 | Marking Scheme                                                                                                                                                                                             |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -209,7 +205,7 @@ The test suite will be required to be submitted as a ZIP file along with the lab
 
 ## 5.3 LAB REPORT (40%)
 
-Students will be required to submit a report on their work in the assignment as a group. To be consistent, please use the template Word file “Lab 3 Report Template.doc” provided online under the Assignment 3 folder. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate. In the report should be included
+Students will be required to submit a report on their work in the assignment as a group. To be consistent, please use the template markdown file ([Assignment3-ReportTemplate.md](Assignment3-ReportTemplate.md)) provided online under the Assignment 3 folder. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate. In the report should be included.
 
 | Marking Scheme                                                                                                                                                                           |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
